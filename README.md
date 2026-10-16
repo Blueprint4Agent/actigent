@@ -1,3 +1,9 @@
+# Actigent
+
+B4A-based activity collection platform — Phase 1 development foundation.
+
+[Actigent setup and upstream synchronization](notes/actigent.md) · [Actigent 개발 환경 및 동기화](notes/ko/actigent.md)
+
 # Blueprint4FastAPI
 
 A FastAPI + React blueprint with authentication, typed API contracts and a repeatable
