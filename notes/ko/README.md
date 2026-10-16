@@ -1,3 +1,9 @@
+# Actigent
+
+B4A 기반 활동 수집 플랫폼의 1단계 개발 환경입니다.
+
+[Actigent 개발 환경 및 Upstream 동기화](actigent.md) · [English](../actigent.md)
+
 # Blueprint4FastAPI
 
 인증, 타입 기반 API 계약, 에이전트와 개발자가 함께 사용하는 작업·검증 절차를 갖춘
